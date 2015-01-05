@@ -1,0 +1,349 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/liyichao/Projects/halo-web/public/" . "less/")
+ ("/Users/liyichao/Projects/gocode/src/git.in.zhihu.com/infrastructure/" . "halo/")
+ ("/Users/liyichao/Projects/gocode/src/git.in.zhihu.com/" . "infrastructure/")
+ ("/Users/liyichao/Projects/gocode/src/" . "git.in.zhihu.com/")
+ ("/Users/liyichao/Projects/gocode/" . "src/")
+ ("/Users/liyichao/Projects/" . "halo-web/")
+ ("/Users/liyichao/code/gocode/src/github.com/liyichao/" . "hello/")
+ ("/Users/liyichao/code/react-env/" . "app/")
+ ("/Users/liyichao/learn/reactjs/react-tutorial-master/public/" . "scripts/")
+ ("/Users/liyichao/learn/reactjs/" . "react-tutorial-master/")
+ ("/Users/liyichao/code/gocode/src/google.golang.org/" . "grpc/")
+ ("/Users/liyichao/learn/tiger/" . "chap1/")
+ ("/Users/liyichao/code/gocode/src/halo/pipeline/" . "check/")
+ ("/Users/liyichao/code/gocode/src/halo/cmd/" . "halod/")
+ ("/Users/liyichao/code/gocode/src/halo/" . "pipeline/")
+ ("/Users/liyichao/learn/rust/adder/" . "src/")
+ ("/Users/liyichao/learn/rust/phrases/src/" . "japanese/")
+ ("/Users/liyichao/learn/rust/phrases/" . "src/")
+ ("/Users/liyichao/learn/rust/hello_world/" . "src/")
+ ("/Users/liyichao/learn/rust/" . "hello_world/")
+ ("/Users/liyichao/code/tracing/" . "tracing/")
+ ("/Users/liyichao/code/pstatsd/" . "pstatsd/")
+ ("/Users/liyichao/code/kids/" . "debian/")
+ ("/Users/liyichao/code/rust/modules/" . "src/")
+ ("/Users/liyichao/.emacs.d/" . "lisp/")
+ ("/Users/liyichao/learn/reactor/" . "react-0.12.2/")
+ ("/Users/liyichao/learn/" . "css/")
+ ("/Users/liyichao/code/rust/hello_world/" . "src/")
+ ("/Users/liyichao/code/rust/" . "modules/")
+ ("/Users/liyichao/code/statusplugins/" . "statusplugins/")
+ ("/Users/liyichao/code/zhihu_puppet/dist/heka/" . "files/")
+ ("/Users/liyichao/code/zhihu_puppet/dist/" . "heka/")
+ ("/Users/liyichao/code/zhihu_puppet/" . "dist/")
+ ("/Users/liyichao/code/docker-images/docker-graphite/" . "carbon-cache/")
+ ("/Users/liyichao/code/redis/" . "src/")
+ ("/Users/liyichao/code/gocode/src/github.com/" . "liyichao/")
+ ("/Users/liyichao/code/gocode/src/" . "github.com/")
+ ("/Users/liyichao/code/gocode/" . "src/")
+ ("/Users/liyichao/code/zabbix_api/" . "zabbixapi/")
+ ("/Users/liyichao/code/tornado/" . "tornado/")
+ ("/Users/liyichao/code/monitor/zhihu_config/nagios/groups/" . "host/")
+ ("/Users/liyichao/code/monitor/zhihu_puppet/dist/base/" . "manifests/")
+ ("/Users/liyichao/code/monitor/zhihu_puppet/dist/user/" . "manifests/")
+ ("/Users/liyichao/code/monitor/zhihu_puppet/dist/" . "base/")
+ ("/Users/liyichao/code/monitor/zhihu_puppet/" . "manifests/")
+ ("/Users/liyichao/code/puppet_zabbix/" . "templates/")
+ ("/Users/liyichao/code/docker-images/" . "docker-skyline/")
+ ("/Users/liyichao/code/monitor/nagiosplugins/" . "nagiosplugins/")
+ ("/Users/liyichao/code/monitor/zhihu_config/nagios/" . "groups/")
+ ("/Users/liyichao/code/monitor/zhihu_config/" . "nagios/")
+ ("/Users/liyichao/code/monitor/" . "zhihu_config/")
+ ("/Users/liyichao/code/kids-explorer/apps/views/" . "observer/")
+ ("/Users/liyichao/code/kids-explorer/apps/" . "views/")
+ ("/Users/liyichao/code/kids-explorer/" . "config/")
+ ("/Users/liyichao/code/kids_explorer/static/" . "js/")
+ ("/Users/liyichao/code/kids_explorer/apps/kids_explorer/" . "controllers/")
+ ("/Users/liyichao/code/kids_explorer/apps/" . "kids_explorer/")
+ ("/Users/liyichao/code/kids_explorer/" . "static/")
+ ("/Users/liyichao/code/kids-py/" . "kids/")
+ ("/Users/liyichao/code/new_kids_explorer/apps/kids_explorer/" . "controllers/")
+ ("/Users/liyichao/code/nginx/src/" . "core/")
+ ("/Users/liyichao/code/nginx/" . "src/")
+ ("/Users/" . "liyichao/")
+ ("/Users/liyichao/code/new_kids_explorer/static/" . "js/")
+ ("/Users/liyichao/code/new_kids_explorer/apps/" . "kids_explorer/")
+ ("/Users/liyichao/code/new_kids_explorer/apps/explorer/" . "dao/")
+ ("/Users/liyichao/code/new_kids_explorer/" . "static/")
+ ("/Users/liyichao/code/" . "gocode/")
+ ("/Users/liyichao/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/liyichao/.emacs.d/lisp/"
+ "/Users/liyichao/Projects/halo-web/public/app/components/pages/"
+ "/Users/liyichao/Projects/halo-web/public/less/"
+ "/Users/liyichao/.ssh/"
+ "/Users/liyichao/code/gocode/src/github.com/liyichao/hello/"
+ "/Users/liyichao/learn/"
+ "/Users/"
+ "/Users/liyichao/learn/css/"
+ "/Users/liyichao/code/react-env/app/"
+ "/Users/liyichao/code/react-env/"
+ "/Users/liyichao/code/react-env/less/"
+ "/Users/liyichao/code/statusplugins/statusplugins/"
+ "/Users/liyichao/learn/reactjs/react-tutorial-master/public/scripts/"
+ "/Users/liyichao/code/gocode/src/google.golang.org/grpc/transport/"
+ "/Users/liyichao/learn/tiger/chap1/"
+ "/Users/liyichao/"
+ "/Users/liyichao/.emacs.d/elpa/go-mode-20150226.1606/"
+ "/Users/liyichao/code/gocode/src/halo/pipeline/check/"
+ "/Users/liyichao/learn/rust/hello_world/src/"
+ "/Users/liyichao/code/gocode/src/halo/cmd/halod/"
+ "/Users/liyichao/learn/rust/phrases/src/japanese/"
+ "/Users/liyichao/learn/rust/phrases/src/"
+ "/Users/liyichao/code/gocode/src/halo/config/"
+ "/Users/liyichao/code/gocode/src/halo/cmd/halo-gen/"
+ "/Users/liyichao/code/gocode/src/halo/pipeline/"
+ "/Users/liyichao/learn/rust/adder/src/"
+ "/Users/liyichao/learn/rust/adder/tests/"
+ "/Users/liyichao/learn/rust/phrases/src/english/"
+ "/Users/liyichao/Dropbox/"
+ "/Users/liyichao/code/tracing/tracing/"
+ "/Users/liyichao/code/pstatsd/pstatsd/"
+ "/Users/liyichao/code/pstatsd/"
+ "/Users/liyichao/code/docker-opsweekly/"
+ "/Users/liyichao/code/kids/debian/"
+ "/Users/liyichao/code/kids/"
+ "/Users/liyichao/code/gocode/src/ialerter/"
+ "/Users/liyichao/code/rust/modules/src/"
+ "/Users/liyichao/.emacs.d/"
+ "/Users/liyichao/code/rust/hello_world/src/"
+ "/Users/liyichao/code/docker-images/docker-skyline/"
+ "/Users/liyichao/code/docker-images/docker-graphite/carbon-c-relay/"
+ "/Users/liyichao/code/carbon-c-relay/"
+ "/Users/liyichao/code/zhihu_puppet/dist/heka/files/"
+ "/Users/liyichao/code/docker-images/docker-graphite/web/"
+ "/Users/liyichao/code/docker-images/docker-graphite/web/conf/"
+ "/Users/liyichao/code/docker-images/docker-graphite/carbon-cache/"
+ "/Users/liyichao/code/docker-images/docker-graphite/carbon-base/"
+ "/Users/liyichao/code/redis/src/"
+ "/Users/liyichao/code/sink/"
+ "/Users/liyichao/code/zmtools/zmtools/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init-local.el"
+ "halo.less"
+ "config"
+ "hello.go"
+ "b.c"
+ "a.h"
+ ".localized"
+ "sheet1.css"
+ "test.html"
+ "main.jsx"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/liyichao/.emacs.d/lisp/" (21811 5761 0 0) "init-xterm.el" "init-windows.el" "init-vc.el" "init-utils.el" "init-uniquify.el" "init-themes.el" "init-textile.el" "init-sql.el" "init-spelling.el" "init-slime.el" "init-site-lisp.el" "init-sessions.el" "init-ruby-mode.el" "init-recentf.el" "init-rails.el" "init-python-mode.el" "init-proxies.el" "init-php.el" "init-paredit.el" "init-osx-keys.el" "init-org.el" "init-nxml.el" "init-mmm.el" "init-misc.el" "init-markdown.el" "init-locales.el" "init-local.el" "init-lisp.el" "init-ledger.el" "init-javascript.el" "init-isearch.el" "init-ido.el" "init-ibuffer.el" "init-html.el" "init-hippie-expand.el" "init-haskell.el" "init-haml.el" "init-gui-frames.el" "init-grep.el" "init-github.el" "init-git.el" "init-frame-hooks.el" "init-fonts.el" "init-flyspell.el" "init-flycheck.el" "init-exec-path.el" "init-erlang.el" "init-elpa.el" "init-editing-utils.el" "init-dired.el" "init-dash.el" "init-darcs.el" "init-csv.el" "init-css.el" "init-crontab.el" "init-compile.el" "init-compat.el" "init-common-lisp.el" "init-clojure.el" "init-clojure-cider.el" "init-benchmarking.el" "init-auto-complete.el" ".dir-locals.el" "../" "./")
+
+ ("/Users/liyichao/.emacs.d/" (21824 55074 0 0) "var/" "site-lisp/" "recentf" "README.md" "lisp/" "LICENSE" "init.el" "ido.last" "history" "elpa/" "custom.el" "auto-save-list/" "ac-comphist.dat" ".smex-items" ".session" ".gitignore" ".git/" ".emacs.desktop.lock" ".emacs.desktop" ".agignore" "../" "./")
+
+ ("/Users/liyichao/" (21824 56615 0 0) "VirtualBox VMs/" "Samsung/" "Public/" "Projects/" "Pictures/" "Music/" "Movies/" "Library/" "learn/" "init/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "cminstaller/" "bin/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zsh-custom/" ".zprofile" ".zhihu/" ".zcompdump-李逸超的MacBook Pro-5.0.5" ".zcompdump-李逸超的MacBook Pro-5.0.2" ".wgetrc" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.3.28.73.liyichao.json" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".screenrc" ".scala_history" ".sbt/" ".rediscli_history" ".python_history" ".pypirc" ".pip/" ".osx" ".oh-my-zsh/" ".npm/" ".node-gyp/" ".mysql_history" ".mongorc.js" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".ivy2/" ".ipython/" ".IntelliJIdea14/" ".inputrc" ".hushlogin" ".httpie/" ".hgignore_global" ".hgignore" ".gvimrc" ".gitignore_global" ".gitignore" ".gitconfig" ".gitattributes" ".gemrc" ".gem/" ".gdbinit" ".functions" ".fasd-init-cache" ".fasd" ".exports" ".emacs.d/" ".editorconfig" ".DS_Store" ".dropbox/" ".dotfiles/" ".curlrc" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".bash_history" ".atom/" ".arcrc" ".android/" ".aliases" "../" "./")
+
+ ("/Users/liyichao/Projects/halo-web/" (21824 56083 0 0) "test/" "README.md" "public/" "package.json" "node_modules/" "nginx/" "gulpfile.js" "gulp/" "bower.json" ".jshintrc" ".gitignore" ".git/" ".bowerrc" ".arcconfig" "../" "./")
+
+ ("/Users/liyichao/Projects/halo-web/public/" (21824 56490 0 0) "less/" "index.html" "dist/" "bower_components/" "app/" "../" "./")
+
+ ("/Users/liyichao/Projects/halo-web/public/app/components/pages/" (21824 56677 0 0) "service_list.jsx" "login.jsx" "home.jsx" "check_list.jsx" "check_edit.jsx" "../" "./")
+
+ ("/Users/liyichao/Projects/halo-web/public/less/" (21824 54566 0 0) "halo.less" "../" "./")
+
+ ("/Users/liyichao/Projects/halo-web/public/app/" (21824 54566 0 0) "components/" "app.jsx" "app-routes.jsx" "../" "./")
+
+ ("/Users/liyichao/Projects/halo-web/public/app/components/" (21824 54566 0 0) "store/" "pages/" "main.jsx" "auth.jsx" "app-left-nav.jsx" "../" "./")
+
+ ("/Users/liyichao/.ssh/" (21822 21245 0 0) "zhihu_server_rsa.pub" "zhihu_server_rsa" "virt_rsa.pub" "virt_rsa" "known_hosts" "id_boot2docker.pub" "id_boot2docker" "gitlab_rsa.pub" "gitlab_rsa" "github_rsa.pub" "github_rsa" "config" "authorized_keys" "../" "./")
+
+ ("/Users/liyichao/Projects/" (21817 38689 0 0) "zipkin/" "zhihu_puppet/" "zhihu-web/" "zeromq-4.0.4/" "wingspan-forms/" "vagrant/" "twemproxy/" "tsar/" "tracing/" "tornado/" "tcomb-form/" "statusplugins/" "statsite/" "stars/" "skyline/" "salt/" "rust/" "redis/" "react-router/" "react-forms/" "react-env/" "react/" "rabbitmq-server/" "pstatsd/" "one/" "OKR/" "nginx/" "newrelic-2.38.2.33/" "netty/" "mesos-0.20.1/" "mesos/" "material-ui/" "learn/" "kids/" "keepalived/" "influxdb/" "hyper/" "heka/" "haproxy/" "halo-web/" "gocode/" "gevent-1.0.1/" "flask/" "finagle/" "emacs_learning/" "dotfiles/" "docker-opsweekly/" "docker-images/" "docker/" "cat/" "carbon-c-relay/" "carbon/" "bosun/" "bolt/" "blog/" "beanstalkd-1.10/" "android-sdk-macosx/" ".DS_Store" ".buildout/" "../" "./")
+
+ ("/Users/liyichao/Projects/gocode/src/git.in.zhihu.com/infrastructure/halo/" (21817 38607 0 0) "supervisor.conf" "receiver/" "README.md" "pipeline/" "main.go" "integration_test.py" "halod_test.toml" "halod_dev.toml" "halod.toml" "Godeps/" "deploy.sh" "config/" "common/" "check/" "api/" "alert/" ".gitignore" ".git/" ".env" ".arcconfig" "../" "./")
+
+ ("/Users/liyichao/Projects/gocode/src/git.in.zhihu.com/infrastructure/" (21817 38603 0 0) "halo/" "../" "./")
+
+ ("/Users/liyichao/Projects/gocode/src/git.in.zhihu.com/" (21817 38598 0 0) "lyc/" "infrastructure/" "../" "./")
+
+ ("/Users/liyichao/Projects/gocode/src/" (21803 49460 0 0) "one-api/" "ialerter/" "halo/" "gopkg.in/" "google.golang.org/" "golang.org/" "github.com/" "git.in.zhihu.com/" "code.google.com/" "9fans.net/" "../" "./")
+
+ ("/Users/liyichao/Projects/gocode/" (21500 36322 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/github.com/liyichao/hello/" (21500 35845 0 0) "hello.go" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/github.com/liyichao/" (21740 27947 0 0) "string/" "hello/" "go-snowrpc/" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/github.com/" (21746 44849 0 0) "ogier/" "MiniProfiler/" "liyichao/" "influxdb/" "gorilla/" "garyburd/" "BurntSushi/" "boot2docker/" "../" "./")
+
+ ("/Users/liyichao/learn/" (21803 46828 0 0) "tiger/" "test2.html" "test.html" "seyren/" "rust/" "reactjs/" "nginx/" "kernel/" "keepalived/" "go/" "css/" "b.o" "b.c" "a.out" "a.o" "a.h" "a.c" ".DS_Store" "../" "./")
+
+ ("/Users/liyichao/learn/go/" (21803 46846 0 0) "main.go" "../" "./")
+
+ ("/Users/liyichao/code/" (21785 24924 0 0) "zipkin/" "zhihu_puppet/" "zhihu-web/" "zeromq-4.0.4/" "wingspan-forms/" "vagrant/" "twemproxy/" "tsar/" "tracing/" "tornado/" "tcomb-form/" "statusplugins/" "statsite/" "stars/" "skyline/" "salt/" "rust/" "redis/" "react-router/" "react-forms/" "react-env/" "react/" "rabbitmq-server/" "pstatsd/" "one/" "OKR/" "nginx/" "newrelic-2.38.2.33/" "netty/" "material-ui/" "learning/" "kids/" "keepalived/" "influxdb/" "hyper/" "heka/" "haproxy/" "gocode/" "gevent-1.0.1/" "flask/" "finagle/" "emacs_learning/" "docker-opsweekly/" "docker-images/" "docker/" "cat/" "carbon-c-relay/" "carbon/" "bosun/" "bolt/" "blog/" "beanstalkd-1.10/" "android-sdk-macosx/" ".DS_Store" ".buildout/" "../" "./")
+
+ ("/Users/liyichao/learn/css/" (21774 10844 0 0) "test.jpeg" "test.html" "sheet2.css" "sheet1.css" ".DS_Store" "../" "./")
+
+ ("/Users/liyichao/code/react-env/" (21770 53761 0 0) "package.json" "npm-debug.log" "node_modules/" "less/" "index.html" "build/" "app/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/liyichao/code/react-env/app/" (21770 53589 0 0) "main.jsx" "../" "./")
+
+ ("/Users/liyichao/code/react-env/less/" (21770 51347 0 0) "main.less" "../" "./")
+
+ ("/Users/liyichao/code/statusplugins/" (21768 13359 0 0) "statusplugins/" "setup.py" "redisservers" "README" "parts/" "eggs/" "develop-eggs/" "config/" "buildout.cfg" "bootstrap.py" "bin/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/statusplugins/statusplugins/" (21768 13630 0 0) "varnishinfo.py" "switch_stats.rb" "sinkinfo.py" "registermobile.py" "redisinfo.py" "queuelenth.py" "nginxinfo.py" "mysqlconfig.py" "mysqlbase.py" "mailtrack.py" "livemobileman.py" "liveman.py" "kpiinfo.py" "kidsinfo.py" "graphite_sender.py" "feedinfo.py" "collector.py" "beanstalkinfo.py" "__init__.py" "../" "./")
+
+ ("/Users/liyichao/learn/reactjs/react-tutorial-master/public/scripts/" (21757 46170 0 0) "test.jsx" "example.js" "../" "./")
+
+ ("/Users/liyichao/learn/reactjs/react-tutorial-master/public/" (21757 36041 0 0) "scripts/" "index.html" "css/" "../" "./")
+
+ ("/Users/liyichao/learn/reactjs/react-tutorial-master/" (21751 44484 0 0) "server.rb" "server.py" "server.php" "server.js" "server.go" "requirements.txt" "README.md" "public/" "package.json" "comments.json" ".gitignore" ".editorconfig" "../" "./")
+
+ ("/Users/liyichao/learn/reactjs/" (21757 35772 0 0) "react-tutorial-master/" ".DS_Store" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/" (21755 7644 0 0) "one-api/" "ialerter/" "halo/" "gopkg.in/" "google.golang.org/" "golang.org/" "github.com/" "code.google.com/" "9fans.net/" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/google.golang.org/grpc/transport/" (21755 8281 0 0) "transport_test.go" "transport.go" "testdata/" "http_util_test.go" "http_util.go" "http2_server.go" "http2_client.go" "control.go" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/google.golang.org/grpc/" (21755 7114 0 0) "transport/" "test/" "stream.go" "server.go" "rpc_util_test.go" "rpc_util.go" "README.md" "PATENTS" "metadata/" "LICENSE" "interop/" "grpc-auth-support.md" "examples/" "doc.go" "credentials/" "CONTRIBUTING.md" "codes/" "codegen.sh" "clientconn.go" "call.go" ".travis.yml" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/google.golang.org/" (21755 7509 0 0) "grpc/" "../" "./")
+
+ ("/Users/liyichao/learn/tiger/" (21749 45474 0 0) "testcases/" "README.md" "chap9/" "chap8/" "chap7/" "chap6/" "chap5/" "chap4/" "chap3/" "chap2/" "chap12/" "chap11/" "chap10/" "chap1/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/learn/tiger/chap1/" (21749 44992 0 0) "util.o" "util.h" "util.c" "slp.o" "slp.h" "slp.c" "prog1.o" "prog1.h" "prog1.c" "makefile" "main.o" "main.c" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/cmd/halod/" (21747 5843 0 0) "halod.go" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/pipeline/check/" (21747 2104 0 0) "checker.go" "check.go" "../" "./")
+
+ ("/Users/liyichao/.emacs.d/elpa/go-mode-20150226.1606/" (21747 880 0 0) "go-mode.elc" "go-mode.el" "go-mode-pkg.el" "go-mode-autoloads.el" "../" "./")
+
+ ("/Users/liyichao/learn/rust/hello_world/src/" (21746 50305 0 0) "main.rs" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/cmd/" (21743 2617 0 0) "halod/" "halo_gen/" "examples/" "../" "./")
+
+ ("/Users/liyichao/Dropbox/" (21740 21470 0 0) "节省/" "联系人.vcf" "编译原理第2版(中文).pdf" "编程语言实现模式.pdf" "简历/" "知乎通讯录 - 在职.csv" "现代编译原理-c语言描述（虎书）.pdf" "屏幕截图/" "public/" "Photos/" "miscs/" "Icon
+" "code/" "Camera Uploads/" "books/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/pipeline/" (21741 48267 0 0) "receiver/" "pipeline.go" "check/" "alert/" "../" "./")
+
+ ("/Users/" (21611 62832 0 0) "Shared/" "liyichao/" ".localized" "../" "./")
+
+ ("/Users/liyichao/learn/rust/phrases/src/" (21743 8694 0 0) "main.rs" "lib.rs" "japanese/" "english/" "../" "./")
+
+ ("/Users/liyichao/learn/rust/phrases/src/japanese/" (21743 8725 0 0) "mod.rs" "greetings.rs" "farewells.rs" "../" "./")
+
+ ("/Users/liyichao/learn/rust/phrases/src/english/" (21743 2608 0 0) "mod.rs" "greetings.rs" "farewells.rs" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/config/" (21741 48267 0 0) "conf.go" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/" (21741 48267 0 0) "web/" "pipeline/" "config/" "cmd/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/web/" (21741 48267 0 0) "web.go" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/halo/cmd/halo-gen/" (21740 26041 0 0) "halo-gen.go" "../" "./")
+
+ ("/Users/liyichao/code/pstatsd/" (21697 43390 0 0) "setup.py" "README.md" "pstatsd.egg-info/" "pstatsd/" "dist/" "buildout.cfg" "bootstrap.py" ".idea/" ".gitignore" ".git/" ".buildout/" "../" "./")
+
+ ("/Users/liyichao/code/pstatsd/pstatsd/" (21697 43254 0 0) "timer.py" "tests/" "stats_summary.py" "stats_reporter.py" "stats_collection.py" "stats.py" "counter.py" "__init__.py" "../" "./")
+
+ ("/Users/liyichao/code/tracing/tracing/" (21694 21024 0 0) "util.pyc" "util.py" "transaction/" "tracers.pyc" "tracers.py" "traceid.pyc" "traceid.py" "trace.pyc" "trace.py" "tests/" "spanmap.pyc" "spanmap.py" "span.pyc" "span.py" "sender.pyc" "sender.py" "sampler.pyc" "sampler.py" "reporter.py" "record.pyc" "record.py" "import_hook.py" "hooks/" "gen_thrift/" "endpoint.pyc" "endpoint.py" "constants.pyc" "constants.py" "config.py" "annotation.pyc" "annotation.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/liyichao/learn/rust/adder/src/" (21719 15109 0 0) "lib.rs" "../" "./")
+
+ ("/Users/liyichao/learn/rust/adder/tests/" (21719 14023 0 0) "lib.rs" "../" "./")
+
+ ("/Users/liyichao/learn/rust/adder/" (21719 13781 0 0) "tests/" "target/" "src/" "Cargo.toml" "Cargo.lock" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/learn/rust/" (21718 9427 0 0) "phrases/" "hello_world/" "adder/" "../" "./")
+
+ ("/Users/liyichao/learn/rust/phrases/" (21718 7861 0 0) "target/" "src/" "Cargo.toml" "Cargo.lock" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/.emacs.d/site-lisp/" (21416 61641 0 0) "README" "../" "./")
+
+ ("/Users/liyichao/learn/rust/hello_world/" (21717 18661 0 0) "target/" "src/" "Cargo.toml" "Cargo.lock" "../" "./")
+
+ ("/Users/liyichao/.emacs.d/elpa/" (21717 14903 0 0) "yari-20140206.611/" "yaml-mode-20141125.37/" "yaml-mode-20130310.2101/" "yagist-20140321.1512/" "whole-line-or-region-20110901.130/" "whitespace-cleanup-mode-20141230.1120/" "whitespace-cleanup-mode-20131205.1117/" "wgrep-20141016.1656/" "wgrep-20140420.446/" "vc-darcs-20141122.1326/" "vc-darcs-20140531.645/" "unfill-20131103.213/" "undo-tree-20140509.522/" "tidy-20111222.1756/" "textile-mode-20120721.1258/" "tagedit-20141021.2139/" "tagedit-20140618.521/" "switch-window-20141205.56/" "switch-window-20130914.640/" "sql-indent-20090325.2254/" "smex-20141210.1422/" "smex-20140425.1314/" "smarty-mode-20100703.458/" "slime-20150102.1206/" "slime-20140731.2332/" "skewer-mode-20141215.1525/" "skewer-mode-20140702.647/" "skewer-less-20131015.622/" "simple-httpd-20140908.1908/" "simple-httpd-20140613.955/" "session-20120510.1700/" "scss-mode-20130105.1411/" "scratch-20120830.1028/" "scala-mode2-20141105.514/" "scala-mode2-20140701.1223/" "sbt-mode-20141110.1116/" "sbt-mode-20140514.1255/" "sass-mode-20141010.1236/" "sass-mode-20140418.1208/" "s-20140910.334/" "s-20140714.707/" "rust-mode-readme.txt" "rust-mode-20150206.404/" "rust-mode-20141214.337/" "rust-mode-0.12.0/" "ruby-hash-syntax-20141010.839/" "ruby-hash-syntax-20131113.1032/" "ruby-compilation-20140620.217/" "robe-20141120.1919/" "robe-20140724.2137/" "rinari-20141021.827/" "rinari-20140523.440/" "regex-tool-20131104.1434/" "redshank-20120510.1230/" "rainbow-mode-0.9/" "rainbow-mode-0.10/" "rainbow-delimiters-20141221.925/" "rainbow-delimiters-20140713.1131/" "queue-0.1.1/" "puppetfile-mode-20131017.833/" "puppet-mode-readme.txt" "puppet-mode-20141014.728/" "puppet-mode-20140725.1546/" "project-local-variables-20080502.1652/" "popwin-20141227.2351/" "popwin-20140508.508/" "popup-20141215.349/" "popup-20140207.1702/" "pkg-info-20140610.630/" "pip-requirements-20150103.445/" "php-mode-20141229.1858/" "php-mode-20140721.1613/" "pcache-20131201.1159/" "paredit-everywhere-20140906.210/" "paredit-everywhere-20140605.338/" "paredit-20141206.954/" "paredit-20140128.1248/" "page-break-lines-20141228.1130/" "page-break-lines-20140128.1017/" "packed-20150101.829/" "packed-20140311.1357/" "osx-location-20130907.133/" "org-pomodoro-20140908.646/" "org-pomodoro-20131117.35/" "org-mac-link-20141015.608/" "org-mac-link-20140614.547/" "org-mac-iCal-20140107.519/" "org-fstree-20090723.819/" "names-20141211.526/" "mwe-log-commands-20100703.541/" "multiple-cursors-20150101.1431/" "multiple-cursors-20140802.828/" "move-dup-20140925.808/" "move-dup-20140614.958/" "mmm-mode-20141105.457/" "mmm-mode-20140211.2104/" "marmalade-20110602.1622/" "markdown-mode-20140914.1012/" "markdown-mode-20131210.700/" "magit-svn-90141228/" "magit-svn-90140802.1/" "magit-gh-pulls-20141216.919/" "magit-90141228/" "magit-90140802.1/" "macrostep-20141014.2350/" "macrostep-20140529.1746/" "lua-mode-20141025.1746/" "lua-mode-20140628.1505/" "logito-20120225.1255/" "lively-20120728.1413/" "let-alist-1.0.3/" "less-css-mode-20140919.524/" "less-css-mode-20140205.250/" "ledger-mode-20150102.1207/" "jump-20130702.33/" "json-snatcher-20140527.2147/" "json-reformat-20141210.1656/" "json-mode-20141105.138/" "js2-mode-20141230.717/" "js-comint-20080530.757/" "ipretty-20140406.2220/" "inflections-20121016.157/" "inf-ruby-20141005.550/" "idomenu-20141123.1320/" "ido-ubiquitous-20141118.1234/" "ibuffer-vc-20141013.742/" "htmlize-20130207.1202/" "hl-sexp-20101130.443/" "hippie-expand-slime-20130907.132/" "highlight-symbol-20140923.729/" "highlight-quoted-20140916.1122/" "highlight-escape-sequences-20130531.1512/" "hi2-20141005.1231/" "hayoo-20140831.521/" "haskell-mode-20150101.1151/" "haml-mode-20141213.920/" "guide-key-20141214.457/" "goto-last-change-20141217.1250/" "goto-chg-20131228.1459/" "go-mode-1.0.0/" "gnuplot-20141231.1337/" "gntp-20141024.1950/" "gitignore-mode-20140605.520/" "github-clone-20141006.210/" "github-browse-file-20141102.1040/" "gitconfig-mode-20140605.520/" "git-timemachine-20141107.1305/" "git-rebase-mode-20140928.1547/" "git-messenger-20140923.738/" "git-commit-mode-20141014.1634/" "git-blame-20110509.926/" "ghci-completion-20140316.2331/" "gh-20141230.158/" "furl-20110112.1707/" "fullframe-20140619.305/" "flymake-rust-readme.txt" "flymake-rust-20141004.1552/" "flymake-python-pyflakes-readme.txt" "flymake-puppet-20141006.1855/" "flymake-easy-20140818.55/" "flycheck-rust-readme.txt" "flycheck-rust-20150115.701/" "flycheck-package-20150102.1458/" "flycheck-ledger-20140605.1146/" "flycheck-hdevtools-20140829.853/" "flycheck-haskell-20141217.549/" "flycheck-20150103.323/" "findr-20130824.1207/" "fill-column-indicator-20140509.1101/" "f-20140828.716/" "expand-region-20141223.1328/" "exec-path-from-shell-20141212.846/" "evil-readme.txt" "evil-20150103.408/" "erlang-20141104.17/" "epl-20140823.609/" "elisp-slime-nav-20141224.854/" "elein-20120120.316/" "eldoc-eval-20140929.755/" "dsvn-20130120.1257/" "dockerfile-mode-20141208.1939/" "dired-sort-20090209.438/" "dired+-20141025.2126/" "diminish-20091203.1012/" "diff-hl-20150102.1543/" "dash-at-point-20140626.35/" "dash-20141220.1452/" "darcsum-20140315.2110/" "csv-nav-20130407.1820/" "csv-mode-1.2/" "css-eldoc-20140128.2337/" "crontab-mode-20090510.1355/" "color-theme-sanityinc-tomorrow-20141205.141/" "color-theme-sanityinc-solarized-20141205.143/" "coffee-mode-20150101.1816/" "clojure-test-mode-20140617.304/" "clojure-mode-20141230.2358/" "cljsbuild-mode-20140619.126/" "cl-lib-highlight-20140127.1312/" "cider-20141227.1232/" "bug-reference-github-20131202.1303/" "browse-kill-ring-20141104.1240/" "auto-complete-20141228.633/" "auto-compile-20140913.1532/" "archives/" "anzu-20141216.146/" "alert-20141222.1703/" "aggressive-indent-20141130.315/" "ace-jump-mode-20140616.115/" "ac-slime-20141002.639/" "ac-nrepl-20140803.656/" "ac-js2-20140809.2217/" "ac-inf-ruby-20131115.350/" "ac-haskell-process-20141206.1138/" "ac-cider-20141231.901/" "../" "./")
+
+ ("/Users/liyichao/.emacs.d/elpa/flymake-rust-20141004.1552/" (21717 14902 0 0) "flymake-rust.elc" "flymake-rust.el" "flymake-rust-pkg.el" "flymake-rust-autoloads.el" "../" "./")
+
+ ("/Users/liyichao/Documents/" (21707 30100 0 0) "认知心理学.pdf" "监控系统目标.png" "李逸超-社会保险个人信息登记表.numbers/" "户口簿.jpg" "北京市社会保险个人信息登记表-2013年最新.xls" "Vuze Downloads/" "Pro Puppet.mobi" "music/" "halmos.pdf" ".localized" ".DS_Store" ".#知乎通讯录.csv" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/one-api/" (21689 824 0 0) "test.go" "README.md" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/tracing/" (21685 5412 0 0) "tracing/" "TODO" "setup.py" "README.md" "demos/" "buildout.cfg" "bootstrap.py" ".gitignore" ".git/" ".buildout/" ".arclint" ".arcconfig" "../" "./")
+
+ ("/Users/liyichao/code/docker-opsweekly/" (21676 8580 0 0) "run.sh" "nginx.conf" "nav.php" "httpasswd.conf" "edit_profile.php" "Dockerfile" "config.php" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/kids/debian/" (21673 26360 0 0) "make_deb.sh" "kids" "Dockerfile" "before-remove" "after-install" "../" "./")
+
+ ("/Users/liyichao/code/kids/docker/" (21673 26360 0 0) "sources.list" "../" "./")
+
+ ("/Users/liyichao/code/kids/" (21673 26381 0 0) "version.m4" "tools/" "TODO" "test-driver" "test/" "stamp-h1" "src/" "samples/" "README.zh_CN.md" "README.md" "missing" "Makefile.in" "Makefile.am" "Makefile" "LICENSE" "install-sh" "Dockerfile" "docker/" "doc/" "deps/" "depcomp" "debian/" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.h.in~" "config.h.in" "config.h" "config.guess" "compile" "client/" "ChangeLog" "autom4te.cache/" "autogen.sh" "aclocal.m4" ".travis.yml" ".gitignore" ".git/" ".dockerignore" "../" "./")
+
+ ("/Users/liyichao/code/gocode/src/ialerter/" (21673 19075 0 0) "user.go" "sender.go" "router.go" "pipeline.go" "media.go" "event.go" "contact.go" "config.go" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/rust/hello_world/src/" (21671 64479 0 0) "main.rs" "main" "../" "./")
+
+ ("/Users/liyichao/code/rust/modules/src/" (21673 8162 0 0) "main.rs" "../" "./")
+
+ ("/Users/liyichao/code/rust/modules/" (21672 4867 0 0) "target/" "src/" "Cargo.toml" "Cargo.lock" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/rust/" (21672 4848 0 0) "modules/" "hello_world/" "guessing_game/" "../" "./")
+
+ ("/Users/liyichao/code/rust/guessing_game/src/" (21672 4731 0 0) "main.rs" "../" "./")
+
+ ("/Users/liyichao/code/rust/guessing_game/" (21671 63983 0 0) "target/" "src/" "Cargo.toml" "Cargo.lock" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/.emacs.d/elpa/flycheck-ledger-20140605.1146/" (21672 1906 0 0) "flycheck-ledger.elc" "flycheck-ledger.el" "flycheck-ledger-pkg.el" "flycheck-ledger-autoloads.el" "../" "./")
+
+ ("/Users/liyichao/learn/kernel/" (21671 33004 0 0) "test.c" "../" "./")
+
+ ("/Users/liyichao/learn/reactor/" (21669 23781 0 0) "tutorial/" "react-0.12.2/" "../" "./")
+
+ ("/Users/liyichao/learn/reactor/tutorial/" (21669 23791 0 0) "template.html" "../" "./")
+
+ ("/Users/liyichao/learn/reactor/react-0.12.2/" (21669 21427 0 0) "README.md" "helloworld.html" "examples/" "build/" "../" "./")
+
+ ("/Users/liyichao/code/rust/hello_world/" (21657 25724 0 0) "src/" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/docker-skyline/" (21651 1214 0 0) "settings.py" "run.sh" "README.md" "launch.sh" "Dockerfile" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/skyline/" (21650 63973 0 0) "utils/" "tests/" "src/" "screenshot.png" "requirements.txt" "readme.md" "LICENSE.md" "bin/" ".travis.yml" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/" (21651 1212 0 0) "zabbix-server/" "saltstack/" "puppet/" "monitored/" "docker-skyline/" "docker-graphite/" "debian/" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/saltstack/" (21473 27952 0 0) "minion.conf" "Dockerfile" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/redis/src/" (21556 43243 0 0) "zmalloc.h" "zmalloc.c" "zipmap.h" "zipmap.c" "ziplist.h" "ziplist.c" "version.h" "valgrind.sup" "util.h" "util.c" "testhelp.h" "t_zset.c" "t_string.c" "t_set.c" "t_list.c" "t_hash.c" "syncio.c" "sparkline.h" "sparkline.c" "sort.c" "solarisfixes.h" "slowlog.h" "slowlog.c" "sha1.h" "sha1.c" "setproctitle.c" "sentinel.c" "sds.h" "sds.c" "scripting.c" "rio.h" "rio.c" "replication.c" "release.c" "redisassert.h" "redis.h" "redis.c" "redis-trib.rb" "redis-cli.c" "redis-check-dump.c" "redis-check-aof.c" "redis-benchmark.c" "rdb.h" "rdb.c" "rand.h" "rand.c" "pubsub.c" "pqsort.h" "pqsort.c" "object.c" "notify.c" "networking.c" "multi.c" "mkreleasehdr.sh" "memtest.c" "Makefile.dep" "Makefile" "lzfP.h" "lzf_d.c" "lzf_c.c" "lzf.h" "latency.h" "latency.c" "intset.h" "intset.c" "hyperloglog.c" "help.h" "fmacros.h" "endianconv.h" "endianconv.c" "dict.h" "dict.c" "debug.c" "db.c" "crc64.h" "crc64.c" "crc16.c" "config.h" "config.c" "cluster.h" "cluster.c" "blocked.c" "bitops.c" "bio.h" "bio.c" "asciilogo.h" "aof.c" "anet.h" "anet.c" "ae_select.c" "ae_kqueue.c" "ae_evport.c" "ae_epoll.c" "ae.h" "ae.c" "adlist.h" "adlist.c" ".gitignore" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/docker-graphite/carbon-cache/" (21650 58981 0 0) "run.sh" "README.md" "Dockerfile" "conf/" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/docker-graphite/web/conf/" (21650 58981 0 0) "supervisord.conf" "nginx.conf" "local_settings.py" "graphTemplates.conf" "dashboard.conf" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/docker-graphite/web/" (21650 58981 0 0) "run.sh" "README.md" "Dockerfile" "conf/" "../" "./")
+
+ ("/Users/liyichao/code/zhihu_puppet/dist/heka/files/" (21636 30899 0 0) "webnginx_log.toml" "statsd.toml" "hekad.toml" "../" "./")
+
+ ("/Users/liyichao/code/carbon-c-relay/" (21650 60722 0 0) "server.h" "server.c" "router.h" "router.c" "relay.h" "relay.c" "receptor.h" "receptor.c" "README.md" "queue.h" "queue.c" "Makefile" "LICENSE.md" "dispatcher.h" "dispatcher.c" "contrib/" "consistent-hash.h" "consistent-hash.c" "collector.h" "collector.c" "aggregator.h" "aggregator.c" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/docker-graphite/carbon-c-relay/" (21650 61817 0 0) "run.sh" "relay.conf" "README.md" "launch.sh" "Dockerfile" "../" "./")
+
+ ("/Users/liyichao/code/docker-images/docker-graphite/" (21650 58981 0 0) "whisper/" "web/" "README.md" "mysql/" "memcached/" "launch.sh" "carbon-relay/" "carbon-cache/" "carbon-c-relay/" "carbon-base/" ".git/" "../" "./")
+
+ ("/Users/liyichao/code/zhihu_puppet/dist/heka/" (21636 30752 0 0) "manifests/" "files/" "../" "./")
+
+ ("/Users/liyichao/code/zhihu_puppet/dist/" (21636 30752 0 0) "zookeeper/" "zhihunginx/" "zabbix/" "user/" "twemproxy/" "tcpresponse/" "system/" "supervisor/" "snmp/" "repoforge/" "redis/" "phabricator/" "package/" "omsa/" "nrpe/" "nginx/" "mysql/" "locales/" "kids/" "keepalived/" "iptables/" "heka/" "hadoop/" "group/" "file/" "collectd/" "base/" "../" "./")
+
+ ("/Users/liyichao/code/zhihu_puppet/" (21636 30752 0 0) "README.md" "Puppetfile" "manifests/" "environment.conf" "dist/" ".gitignore" ".git/" ".arclint" ".arcconfig" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
