@@ -39,6 +39,7 @@
 (defun my-go-mode()
   (define-key go-mode-map (kbd "C-c i") 'go-goto-imports)
   (define-key go-mode-map (kbd "C-c g") 'godef-jump)
+  (define-key go-mode-map (kbd "C-c b") 'pop-tag-mark)
   (define-key go-mode-map (kbd "C-c d") 'godef-describe)
   (define-key go-mode-map (kbd "C-c f") 'gofmt)
   (define-key go-mode-map (kbd "C-c r") 'go-run)
