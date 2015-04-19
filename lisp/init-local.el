@@ -6,7 +6,7 @@
 (setq-default tab-width 2)
 
 ;; ---------- golang -----------------
-(setenv "GOPATH" "/Users/liyichao/code/gocode")
+(setenv "GOPATH" "/Users/liyichao/Projects/gocode")
 (when (memq window-system '(mac ns))
   (exec-path-from-shell-copy-env "GOPATH")
   (exec-path-from-shell-copy-env "PATH"))
