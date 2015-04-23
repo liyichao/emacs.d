@@ -4,7 +4,12 @@
 
 (setq-default indent-tabs-mode nil)
 (setq-default tab-width 2)
-
+(setq backup-directory-alist
+      `(("." . ,(expand-file-name
+                 (concat user-emacs-directory "backups")))))
+(setq auto-save-file-name-transforms
+      `((".*" ,(expand-file-name
+                (concat user-emacs-directory "backups")) t)))
 ;; ---------- golang -----------------
 (setenv "GOPATH" "/Users/liyichao/Projects/gocode")
 (when (memq window-system '(mac ns))
@@ -21,13 +26,6 @@
 (require-package 'gotest)
 (require 'gotest)
 
-;; get -u github.com/jstemmer/gotags
-
-(require-package 'popwin)
-(require 'popwin)
-(setq display-buffer-function 'popwin:display-buffer)
-
-
 (require-package 'go-eldoc)
 (add-hook 'go-mode-hook 'go-eldoc-setup)
 (setq gofmt-command "goimports")
@@ -36,6 +34,9 @@
 
 (require-package 'golint)
 (require 'golint)
+
+(load-file "$GOPATH/src/code.google.com/p/go.tools/cmd/oracle/oracle.el")
+
 (defun my-go-mode()
   (define-key go-mode-map (kbd "C-c i") 'go-goto-imports)
   (define-key go-mode-map (kbd "C-c g") 'godef-jump)
@@ -43,6 +44,7 @@
   (define-key go-mode-map (kbd "C-c d") 'godef-describe)
   (define-key go-mode-map (kbd "C-c f") 'gofmt)
   (define-key go-mode-map (kbd "C-c r") 'go-run)
+  (go-oracle-mode)
   )
 (add-hook 'go-mode-hook 'my-go-mode)
 
