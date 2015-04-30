@@ -5,7 +5,7 @@
 (setq-default indent-tabs-mode nil)
 (setq-default tab-width 2)
 (setq backup-directory-alist
-      `(("." . ,(expand-file-name
+      `((".*" . ,(expand-file-name
                  (concat user-emacs-directory "backups")))))
 (setq auto-save-file-name-transforms
       `((".*" ,(expand-file-name
@@ -71,5 +71,7 @@
               ;; enable flycheck
               (flycheck-select-checker 'jsxhint-checker)
               (flycheck-mode))))
-
+(setq web-mode-markup-indent-offset 2)
+(setq web-mode-css-indent-offset 2)
+(setq web-mode-code-indent-offset 2)
 (provide 'init-local)
